@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.contenedor-principal{
+    background-color: #f1f1f1;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+    color: #2A4064;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+h1{
+    padding: 10px;
+}
+
+
+.email-address{
+    font-weight: 600;
+    padding: 10px;
+}
+
+img{
+    width: 100px;
+    height: auto;
+}
+
+.descripcion{
+    padding: 10px;
+    margin: 10px;
+}
+
+.recovery-email{
+    background-color:#e5e7f0;
+    width: 250px;
+    height: 150px;
+    margin-left: 50px;
+    border-radius: 5px;
+   
+}
+
+.email{
+    
+    margin-top: 10px ;
+    padding: 10px;
+  
+}
+
+.recuperacion{
+    margin-top: 10px;
+   
+}
+
+.update{
+    background-color: rgb(194, 192, 196);
+    padding: 5px;
+    margin: 30px;
+    width: 120px;
+    border-radius: 40px;
+    border: none;
+    
+}
+
+.confirmar{
+    width: 120px;
+    padding: 5px;
+    background-color: #2A4064;
+    border-radius: 40px;
+    color: #fff;
+    margin: 40px;
+    border: none;
+}
